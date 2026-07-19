@@ -31,4 +31,5 @@ Alterei as políticas padrão — bloquear entrada com o comando ´sudo ufw defa
 Para verificar o bloqueio, executei o comando abaixo em que teve esta saída.  
 Em que o IP malicioso ´203.0.113.50´ foi bloqueado e ignorado silenciosamente pelo comando ´DROP´, assim o firewall está blindado contra este endereço. Se o IP fictício estivesse tentando enviar pacotes, a coluna pkts (pacotes) começaria a subir.  
 
+![image alt](https://github.com/evacatarina/M5_Linux_e_Ciberseguranca_Skodji-Digital/blob/523010f2609895129543e781ef595265374b88de/sessao_3/conf%20simulacao.png).
 
