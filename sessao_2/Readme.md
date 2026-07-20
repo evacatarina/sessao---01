@@ -32,6 +32,12 @@ Utilizei o comando `cd /var/log/`.
 
 **Exercício 4** - Identificar se o atacante obteve sucesso.
 
+![image alt](https://github.com/evacatarina/M5_Linux_e_Ciberseguranca_Skodji-Digital/blob/794ba13a3e30b51143444fd891404eaf8021cf09/sessao_2/Captura%20de%20ecr%C3%A3%202026-07-19%20191900.png)
 
+---
+O IP do atacante identificado
+A hora exata do comprometimento (timestamp)
+O utilizador afetado
+Breve linha temporal do ataque (tentativas falhadas → sucesso)
 
 
