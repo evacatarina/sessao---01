@@ -8,4 +8,12 @@ comprometido.
 
 Utilizei o comando `cd /var/log/`.
 
+![image alt](https://github.com/evacatarina/M5_Linux_e_Ciberseguranca_Skodji-Digital/blob/e1e27017bf1fa1c912b616db826e2df12f8110a9/sessao_2/Captura%20de%20ecr%C3%A3%202026-07-19%20190219.png)
+
+---
+
+### Passo 2
+
+**Exercício 2** - Isolar tentativas falhadas de login.
+
 ![image alt](
