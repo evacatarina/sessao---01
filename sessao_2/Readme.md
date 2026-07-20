@@ -16,4 +16,12 @@ Utilizei o comando `cd /var/log/`.
 
 **Exercício 2** - Isolar tentativas falhadas de login.
 
-![image alt](
+![image alt](https://github.com/evacatarina/M5_Linux_e_Ciberseguranca_Skodji-Digital/blob/e2ae9c667a08b0b5f3cb83bba3e4401e8645c7cb/sessao_2/Captura%20de%20ecr%C3%A3%202026-07-19%20191511.png)
+
+---
+
+### Passo 3
+
+**Exercício 3** - Extrair e contar quais os IPs que mais tentaram autenticar-se no sistema.
+
+
