@@ -24,4 +24,14 @@ Utilizei o comando `cd /var/log/`.
 
 **Exercício 3** - Extrair e contar quais os IPs que mais tentaram autenticar-se no sistema.
 
+![image alt](https://github.com/evacatarina/M5_Linux_e_Ciberseguranca_Skodji-Digital/blob/1c974429f057e9993f878150cabce9ed8419e988/sessao_2/Captura%20de%20ecr%C3%A3%202026-07-19%20191736.png)
+
+---
+
+### Passo 4
+
+**Exercício 4** - Identificar se o atacante obteve sucesso.
+
+
+
 
